@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Streamline, Innovate, and Thrive with Cutting-Edge Solutions",
+        "title": "Revolutionize Your Work Life"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Streamline, Innovate, and Thrive with Cutting-Edge Solutions",
+        "title": "Revolutionize Your Work Life"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Streamline, Innovate, and Thrive with Cutting-Edge Solutions",
+        "title": "Revolutionize Your Work Life"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Streamline, Innovate, and Thrive with Cutting-Edge Solutions",
+        "title": "Revolutionize Your Work Life"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Streamline, Innovate, and Thrive with Cutting-Edge Solutions",
+        "title": "Revolutionize Your Work Life"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Streamline, Innovate, and Thrive with Cutting-Edge Solutions",
+        "title": "Revolutionize Your Work Life"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Streamline, Innovate, and Thrive with Cutting-Edge Solutions",
+        "title": "Revolutionize Your Work Life"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Streamline, Innovate, and Thrive with Cutting-Edge Solutions",
+        "title": "Revolutionize Your Work Life"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Revolutionize Your Work Life",
+  "subtitle": "Streamline, Innovate, and Thrive with Cutting-Edge Solutions"
+}
